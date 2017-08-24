@@ -1,0 +1,14 @@
+C:\Users\Laptop\Programing\ASP.NET 24.04.17\PhoneBookProject\PhoneBook\PhoneBook.Data\bin\Debug\PhoneBook.Data.dll.config
+C:\Users\Laptop\Programing\ASP.NET 24.04.17\PhoneBookProject\PhoneBook\PhoneBook.Data\bin\Debug\PhoneBook.Data.dll
+C:\Users\Laptop\Programing\ASP.NET 24.04.17\PhoneBookProject\PhoneBook\PhoneBook.Data\bin\Debug\PhoneBook.Data.pdb
+C:\Users\Laptop\Programing\ASP.NET 24.04.17\PhoneBookProject\PhoneBook\PhoneBook.Data\bin\Debug\EntityFramework.dll
+C:\Users\Laptop\Programing\ASP.NET 24.04.17\PhoneBookProject\PhoneBook\PhoneBook.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Laptop\Programing\ASP.NET 24.04.17\PhoneBookProject\PhoneBook\PhoneBook.Data\bin\Debug\PhoneBook.Models.dll
+C:\Users\Laptop\Programing\ASP.NET 24.04.17\PhoneBookProject\PhoneBook\PhoneBook.Data\bin\Debug\PhoneBook.Models.pdb
+C:\Users\Laptop\Programing\ASP.NET 24.04.17\PhoneBookProject\PhoneBook\PhoneBook.Data\bin\Debug\EntityFramework.xml
+C:\Users\Laptop\Programing\ASP.NET 24.04.17\PhoneBookProject\PhoneBook\PhoneBook.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Laptop\Programing\ASP.NET 24.04.17\PhoneBookProject\PhoneBook\PhoneBook.Data\obj\Debug\PhoneBook.Data.csprojResolveAssemblyReference.cache
+C:\Users\Laptop\Programing\ASP.NET 24.04.17\PhoneBookProject\PhoneBook\PhoneBook.Data\obj\Debug\PhoneBook.Data.dll
+C:\Users\Laptop\Programing\ASP.NET 24.04.17\PhoneBookProject\PhoneBook\PhoneBook.Data\obj\Debug\PhoneBook.Data.pdb
+C:\Users\Laptop\Programing\ASP.NET 24.04.17\PhoneBookProject\PhoneBook\PhoneBook.Data\obj\Debug\PhoneBook.Data.Migrations.InitialCreate.resources
+C:\Users\Laptop\Programing\ASP.NET 24.04.17\PhoneBookProject\PhoneBook\PhoneBook.Data\obj\Debug\PhoneBook.Data.csproj.GenerateResource.Cache

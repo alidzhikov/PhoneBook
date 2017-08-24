@@ -1,0 +1,5 @@
+C:\Users\Laptop\Programing\ASP.NET 24.04.17\PhoneBookProject\PhoneBook\PhoneBook.Models\bin\Debug\PhoneBook.Models.dll
+C:\Users\Laptop\Programing\ASP.NET 24.04.17\PhoneBookProject\PhoneBook\PhoneBook.Models\bin\Debug\PhoneBook.Models.pdb
+C:\Users\Laptop\Programing\ASP.NET 24.04.17\PhoneBookProject\PhoneBook\PhoneBook.Models\obj\Debug\PhoneBook.Models.dll
+C:\Users\Laptop\Programing\ASP.NET 24.04.17\PhoneBookProject\PhoneBook\PhoneBook.Models\obj\Debug\PhoneBook.Models.pdb
+C:\Users\Laptop\Programing\ASP.NET 24.04.17\PhoneBookProject\PhoneBook\PhoneBook.Models\obj\Debug\PhoneBook.Models.csprojResolveAssemblyReference.cache
